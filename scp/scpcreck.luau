@@ -1,4 +1,4 @@
-local spoofedUsername = "creckbyhenne"
+local spoofedUsername = "Somf5577"
 local Players = game:GetService("Players")
 local lp = Players.LocalPlayer
 
